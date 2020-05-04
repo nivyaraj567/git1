@@ -525,7 +525,7 @@ top: -250px;
 	}
 	.ban{
 		height: 130px;
-		width: 900px;
+		width: 100%;
 		font-family: 'Roboto',sans-serif;
 		margin: 50px auto;
 		position: relative;
